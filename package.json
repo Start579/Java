@@ -1,11 +1,11 @@
 {
-  "name": "java",
+  "name": "Java",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://start579.github.io/java",
+  "homepage": "https://start579.github.io/Java",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /java/"
+    "build": "parcel build src/*.html --public-url /Java/"
   },
   "repository": {
     "type": "git",
